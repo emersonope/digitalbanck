@@ -2,7 +2,7 @@
 
 Para veficar este projeto será necessário fazer o download deste projeto para um repositório local.
 
-* Após ter o projeto em seu repositório, utilize o seguinte comando abaixo:
+* Após ter o projeto em seu repositório local, utilize o seguinte comando abaixo:
    - npm init => para instalar os módulos do nodejs
 
 * Por gentileza verificar se todas as dependêcias foram instaladas corretamente:
