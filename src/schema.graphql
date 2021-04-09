@@ -1,0 +1,16 @@
+type Banco {
+    id: Int!
+    conta: String!
+    saldo: Float!
+}
+
+type Query {
+    dados: [Banco!]!
+    dado(id: Int!): Banco
+}
+
+type Mutation {
+    deposito(bancoId: Int!, conta: String, saldo: Float, dep: Float): Banco
+    saque(bancoId: Int!, conta: String, saldo: Float, saq: Float): Banco
+    saldo(bancoId: Int!, conta: String, saldo: Float): Banco
+}
