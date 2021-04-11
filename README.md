@@ -14,7 +14,7 @@ Para veficar este projeto será necessário fazer o download deste projeto para 
  * Agora para rodar o projeto devera utilizar um dos comandos abaixo:
     - npm run dev
     - node server.js
-  * Após inicializado será apresentado uma mensagem: "servidor ativo" em seu prompt
+ 
   
   * O proximo passo será abrir o localhost na porta 4000
   
